@@ -1,5 +1,6 @@
 Data Preprocessing and Visualization Mini Project
 This mini project is part of my certification course in Data Analytics from Entri Elevate. It focuses on data preprocessing and visualization to derive meaningful insights from raw datasets.
+
 Phase 1:
 Performed data preprocessing using Microsoft Excel. This includes cleaning, transforming, and preparing the data for analysis.
 The processed dataset is being prepared for the next phase of visualization.
