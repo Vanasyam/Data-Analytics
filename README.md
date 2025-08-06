@@ -3,6 +3,7 @@ This mini project is part of my certification course in Data Analytics from Entr
 Phase 1:
 Performed data preprocessing using Microsoft Excel. This includes cleaning, transforming, and preparing the data for analysis.
 The processed dataset is being prepared for the next phase of visualization.
-Next Steps:
-Visualize the preprocessed data using Power BI to create interactive and insightful dashboards.
+Phase 2:
+Visualized the preprocessed data using Power BI to created an interactive and insightful dashboard.
+
 This mini project aims to strengthen my skills in data handling, preparation, and visualization tools commonly used in data analytics workflows.
